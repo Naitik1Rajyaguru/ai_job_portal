@@ -1,0 +1,5 @@
+ai_job_portal
+build
+node_modules
+.env
+__pycache__
