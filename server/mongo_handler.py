@@ -10,3 +10,6 @@ def get_users_collection():
 
 def get_companies_collection():
     return db['companies']
+
+def get_jobs_collection():
+    return db['jobs']
